@@ -1,0 +1,1 @@
+# gdrcopy-spec
